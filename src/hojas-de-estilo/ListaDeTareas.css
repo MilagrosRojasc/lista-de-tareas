@@ -1,0 +1,5 @@
+.contenedor-lista{
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 15px;
+}

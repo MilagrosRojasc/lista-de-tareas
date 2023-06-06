@@ -1,0 +1,32 @@
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+html, body {
+  background-color: #F4F6F7;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 40px;
+}
+
+h1{
+  color: #556374;
+  font-size: 25px;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.Lista-principal{
+  width: 400px;
+  min-height: 400px;
+  background-color: #D7DBDD;
+  padding: 25px;
+  margin: 10px;
+  border-radius: 15px; 
+}
